@@ -1,0 +1,14 @@
+*{
+	margin:0px;
+	padding:0px;
+
+}
+
+div#centro{
+	margin:auto;
+	margin-top: 50px;
+	width:600px;
+	height:400px;
+	background-color: #424242;
+
+}
