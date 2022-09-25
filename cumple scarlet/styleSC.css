@@ -1,0 +1,105 @@
+
+@font-face {
+    font-family:mifuente;
+    src: url(fuentet.ttf);
+}
+
+/* color paleta #FA5882 #F5A9BC  #ffa5ca*/
+body{
+    background-color: #974e60;
+    display: flex;
+    justify-content: center;
+}
+
+.tarjeta{
+    display:flex;
+    
+    margin-top: 40px;
+    border-radius: 50px;
+    width: 300px;
+    height: 580px;
+    background-color: #FA5882;
+  
+    border: solid 4px #ffa5ca;
+    
+    
+}
+
+h1{
+    font-family: mifuente;
+    display: block;
+    text-align: center;
+    justify-content: center;
+    color:#fff;
+    font-size: 35px;
+    margin-bottom: -20px;
+    margin-right: 10px;
+    text-shadow: 2px 3px #7e0449;
+}
+
+
+
+
+
+img{
+    display: block;
+    text-align: center;
+  
+    padding-left: 15px
+}
+
+
+.tarjeta_cont_info{
+    background-color: #c43f76;
+    width: 90%;
+    margin-left: 2vh;
+    height: 200px;
+    margin-top: -150px;
+    border-radius: 30px;
+    border: solid 4px #ffa5ca;
+    font-size: 23px;
+}
+
+.fila1{
+    text-align: center;
+    font-family: mifuente;
+    color: #fff;
+    text-shadow: 2px 3px #7e2959;
+    padding-top: 20px;
+    
+}
+
+.fila2{
+    text-align: center;
+    font-family: mifuente;
+    color: #fff;
+    text-shadow: 2px 3px #7e2959;
+    padding-top: 8px;
+}
+
+.fila3{
+    text-align: center;
+    font-family: mifuente;
+    color: #fff;
+    text-shadow: 2px 3px #7e2959;
+    padding-top: 8px;
+}
+
+.fila4{
+    text-align: center;
+    font-family: mifuente;
+    padding-top: 8px;
+    
+}
+
+.fila4 a {
+    text-decoration: none;
+    color:#2281ee ;
+    
+    
+
+}
+
+.fila4 a:hover{
+    color: #9ef7c0;
+}
